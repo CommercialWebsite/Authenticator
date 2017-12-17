@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd415c40-d12a-470d-828b-90c84514162c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/auth/MongoConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/auth/MongoConfig.java" />
-    </list>
+    <list default="true" id="fd415c40-d12a-470d-828b-90c84514162c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
