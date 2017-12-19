@@ -23,4 +23,3 @@ public class MongoConfig extends  AbstractMongoConfiguration {
 
 }
 
-    git commit -am"change name bd"
